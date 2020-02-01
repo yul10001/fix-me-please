@@ -25,6 +25,8 @@ public class CObjMover : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        float r = Mathf.Atan2(1, 0) * Mathf.Rad2Deg;
+        Debug.Log(r);
         DefaultSet();
     }
 
