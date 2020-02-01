@@ -79,8 +79,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   StartPosition: {fileID: 0}
-  _movSpeed: 1.04
-  _velocity: 1.63
+  _movSpeed: 2.55
+  _velocity: 1.67
   _defaultSidePow: 0
   _defaultaSpin: 0
   _isMove: 0
